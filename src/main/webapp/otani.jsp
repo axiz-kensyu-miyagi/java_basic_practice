@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>画面遷移01otani</title>
+</head>
+<body>
+
+<a href = "ishida.jsp">石田を呼ぶ</a>
+
+</body>
+</html>
